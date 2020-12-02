@@ -1,0 +1,6 @@
+[package]
+name = "tictactoe-rust"
+version = "0.1.0"
+authors = ["TristanPinaudeau <tristan@flexfactory.fr>"]
+
+[dependencies]
